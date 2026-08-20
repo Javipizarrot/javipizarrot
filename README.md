@@ -2,7 +2,7 @@
 
 🎓 Licenciada en Psicología y estudiante del **Magíster en Psicología, mención Organizacional** de la Universidad Adolfo Ibáñez.
 
-🚀 Me encuentro desarrollando mi experiencia como **Tech Sourcer en Buk**, una plataforma tecnológica de Recursos Humanos, profundizando en **sourcing de perfiles IT**.
+🚀 Me encuentro desarrollando mi experiencia como **Tech Sourcer en @bukhr**, una plataforma tecnológica de Recursos Humanos, profundizando en **sourcing de perfiles IT**.
 
 🔎 **Me interesan áreas como:**
 - Atracción de Talento IT
