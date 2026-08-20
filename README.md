@@ -9,6 +9,6 @@
 - Tech Recruiting & Sourcing
 - Employer Branding
 
-💡 Busco ampliar mis conocimientos sobre **tecnología, perfiles IT, GitHub y estrategias de sourcing**, con el objetivo de comprender mejor el mundo tecnológico y conectar con talento especializado.
+💡 Busco ampliar mis conocimientos sobre **tecnología, perfiles IT y estrategias de sourcing**, con el objetivo de comprender mejor el mundo tecnológico y conectar con talento especializado.
 
 📍 Chile 🇨🇱
