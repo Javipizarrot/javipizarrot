@@ -1,4 +1,4 @@
-# ¡Hola! Soy Javiera 👋
+¡Hola! Soy Javiera 👋
 
 🎓 Licenciada en Psicología y estudiante del **Magíster en Psicología, mención Organizacional** de la Universidad Adolfo Ibáñez.
 
