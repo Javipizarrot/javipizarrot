@@ -1,10 +1,28 @@
+# ¡Hola! Soy Javi 👋
 
-¡Hola! Soy Javiera 👋
+💙 **Tech Sourcer en Buk Chile**, conectando personas con desafíos del mundo tech.
 
-🚀 Me encuentro desarrollando mi experiencia como **Tech Sourcer en BUK Chile (Software de Recursos Humanos)💙** profundizando en **sourcing de perfiles tecnológicos**.
+🔎 Me interesa conocer distintas trayectorias en el mundo tech y conectar con personas que estén buscando su próximo desafío.
 
-💡 Busco ampliar mis conocimientos sobre **tecnología, perfiles IT y estrategias de sourcing**, con el objetivo de comprender mejor el mundo tecnológico y conectar con talento especializado.
+💻 Me apasiona el mundo tech y profundizar en distintos **perfiles, tecnologías y equipos de Engineering**
 
-📍Santiago, Chile
+Y si llegaste hasta mi perfil, aprovecho de mostrarte un poquito de ese mundo 👀
+---
 
-[Ver repositorio](https://github.com/Javipizarrot/Conoce_mas_buk)
+## ¿Te dio curiosidad Buk? 👀
+
+En Buk buscamos crear **lugares de trabajo más felices**, y detrás de ese propósito hay equipos de Engineering construyendo, experimentando y resolviendo desafíos que impactan a miles de personas en Latinoamérica.
+
+### Conoce un poco más 🚀
+
+[Así vivimos Buk ✨](https://github.com/Javipizarrot/Conoce_mas_buk)
+
+---
+
+### ¿Hablamos? 💬
+
+Si eres parte del mundo tech y te dio curiosidad lo que estamos construyendo, **¡conectemos!**
+
+
+
+
