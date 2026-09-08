@@ -8,7 +8,8 @@
 
 ### Y si llegaste hasta mi perfil, aprovecho de mostrarte un poquito del lugar donde estoy viviendo ese mundo 🔭
 
-<img width="242" height="139" alt="Captura de pantalla 2026-09-08 145852" src="https://media.giphy.com/media/Cyhe6MaUvlrMdKJagW/giphy.gif" />
+<img width="180" height="180" alt="giphy" src="https://github.com/user-attachments/assets/cf8494d8-b8b7-428b-8c1d-844f3d84ccec" />
+
 
 ---
 
