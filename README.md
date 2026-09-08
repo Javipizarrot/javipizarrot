@@ -7,4 +7,4 @@
 
 📍Santiago, Chile
 
-https://github.com/Javipizarrot/Posicionamiento-y-cultura-BUK.git
+[Ver repositorio](https://github.com/Javipizarrot/Conoce_mas_buk)
