@@ -6,7 +6,7 @@
 
 💻 Me apasiona el mundo tech y profundizar en distintos **perfiles, tecnologías y equipos de Engineering**
 
-## Y si llegaste hasta mi perfil, aprovecho de mostrarte un poquito de ese mundo 👀
+### Y si llegaste hasta mi perfil, aprovecho de mostrarte un poquito de ese mundo 👀
 ---
 
 ## ¿Te dio curiosidad Buk? 👀
