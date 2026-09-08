@@ -10,11 +10,6 @@
 
 <img width="100" height="100" alt="giphy" src="https://github.com/user-attachments/assets/cf8494d8-b8b7-428b-8c1d-844f3d84ccec" />
 
-
----
-
-### ¿Te dio curiosidad Buk? 👀
-
 En Buk buscamos crear **lugares de trabajo más felices**, y detrás de ese propósito hay equipos de Engineering construyendo, experimentando y resolviendo desafíos que impactan a miles de personas en Latinoamérica.
 
 ### Conoce un poco más 🚀
