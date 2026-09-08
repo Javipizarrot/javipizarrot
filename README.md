@@ -1,6 +1,6 @@
 # ¡Hola! Soy Javi 👋
 
-💙 **Tech Sourcer en Buk Chile**, conectando personas con desafíos del mundo tech.
+💙 **Tech Sourcer en Buk Chile**, descubriendo el talento detrás de la tecnología.
 
 🔎 Me interesa conocer distintas trayectorias tech y conectar con personas que estén buscando su próximo desafío.
 
