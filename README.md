@@ -32,5 +32,8 @@ Si eres parte del mundo tech y te dio curiosidad lo que estamos construyendo, **
   <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<img width="30" height="30" alt="giphy" src="https://github.com/user-attachments/assets/bacc208b-81f5-4023-be7a-7d052d1c7005" />
+
+
 
 
