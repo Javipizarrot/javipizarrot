@@ -25,7 +25,11 @@ En Buk buscamos crear **lugares de trabajo más felices**, y detrás de ese prop
 ### ¿Hablamos? 💬
 
 Si eres parte del mundo tech y te dio curiosidad lo que estamos construyendo, **¡conectemos!**
-
+<p align="left">
+  <a target="_blank" href="https://www.linkedin.com/in/javiera-paz-pizarro-tapia-174903348/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>    
+<a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=jpizarro@buk.cl&su=Hello%20Javiera,%20From%20Github">
+  <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 
 
