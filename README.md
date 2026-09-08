@@ -6,7 +6,7 @@
 
 💻 Desde el sourcing, exploro perfiles, stacks y equipos de Engineering para entender cada vez mejor cómo se construye tecnología.
 
-### Y si llegaste hasta mi perfil, aprovecho de mostrarte un poquito de ese mundo 🔭
+### Y si llegaste hasta mi perfil, aprovecho de mostrarte un poquito del lugar donde estoy viviendo ese mundo 🔭
 ---
 
 ### ¿Te dio curiosidad Buk? 👀
