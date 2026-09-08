@@ -15,7 +15,7 @@ En Buk buscamos crear **lugares de trabajo más felices**, y detrás de ese prop
 
 ### Conoce un poco más 🚀
 
-[Así vivimos Buk ✨](https://github.com/Javipizarrot/Conoce_mas_buk)
+[✨Bienvenido al mundo Buk](https://github.com/Javipizarrot/Conoce_mas_buk)
 
 ---
 
