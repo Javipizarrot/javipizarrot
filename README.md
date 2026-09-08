@@ -9,7 +9,7 @@
 ### Y si llegaste hasta mi perfil, aprovecho de mostrarte un poquito de ese mundo 👀
 ---
 
-## ¿Te dio curiosidad Buk? 👀
+### ¿Te dio curiosidad Buk? 👀
 
 En Buk buscamos crear **lugares de trabajo más felices**, y detrás de ese propósito hay equipos de Engineering construyendo, experimentando y resolviendo desafíos que impactan a miles de personas en Latinoamérica.
 
