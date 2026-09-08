@@ -12,9 +12,15 @@
 
 En Buk buscamos crear **lugares de trabajo más felices**, y detrás de ese propósito hay equipos de Engineering construyendo, experimentando y resolviendo desafíos que impactan a miles de personas en Latinoamérica.
 
-### Conoce un poco más 🚀
+A través de estos tres pilares puedes conocer un poco más sobre **cómo pensamos, cómo construimos tecnología y cómo vivimos Engineering en Buk**.
 
-[✨Bienvenido al mundo Buk](https://github.com/Javipizarrot/Conoce_mas_buk)
+#### Conoce un poco más 🚀
+
+🎯 [PILAR 1: POSICIONAMIENTO Y CULTURA](https://github.com/Javipizarrot/Posicionamiento_y_cultura.git)
+
+⚙️ [PILAR 2: ARQUITECTURA, ESCALA Y PRÁCTICAS REALES](https://github.com/Javipizarrot/arquitectura_escala_practicas_reales.git)
+
+🌐 [PILAR 3: CONVERSIÓN: COMUNIDAD, OPEN SOURCE Y NUESTRO PROCESO](https://github.com/Javipizarrot/arquitectura_escala_practicas_reales.git)
 
 ---
 
