@@ -2,7 +2,7 @@
 
 💙 **Tech Sourcer en Buk Chile**, conectando personas con desafíos del mundo tech.
 
-🔎 Me interesa conocer distintas trayectorias en el mundo tech y conectar con personas que estén buscando su próximo desafío.
+🔎 Me interesa conocer distintas trayectorias tech y conectar con personas que estén buscando su próximo desafío.
 
 💻 Me apasiona el mundo tech y profundizar en distintos **perfiles, tecnologías y equipos de Engineering**
 
