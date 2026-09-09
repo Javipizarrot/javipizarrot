@@ -24,7 +24,7 @@ A través de estos tres pilares puedes conocer un poco más sobre **cómo pensam
 
 ⚙️ **[PILAR 2: ARQUITECTURA, ESCALA Y PRÁCTICAS REALES](https://github.com/Javipizarrot/arquitectura_escala_practicas_reales.git)** 💙
 
-¿Por qué amamos "The Boring Technology"? mostramos nuestra infraestructura y explicamos nuestra cultura de error (Blameless post-mortems).
+➡️ ¿Por qué amamos "The Boring Technology"? mostramos nuestra infraestructura y explicamos nuestra cultura de error (Blameless post-mortems).
 
 
 🌐 **[PILAR 3: CONVERSIÓN: COMUNIDAD, OPEN SOURCE Y NUESTRO PROCESO](https://github.com/Javipizarrot/arquitectura_escala_practicas_reales.git)** 💙 
