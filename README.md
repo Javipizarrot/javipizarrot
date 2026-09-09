@@ -10,6 +10,10 @@
 
 En Buk buscamos crear **lugares de trabajo más felices**, y detrás de ese propósito hay equipos de Engineering construyendo, experimentando y resolviendo desafíos que impactan a miles de personas en Latinoamérica.
 
+<p align="center">
+  <img src="giphy (1).webp" width="200">
+</p>
+
 A través de estos tres pilares puedes conocer un poco más sobre **cómo pensamos, cómo construimos tecnología y cómo vivimos Engineering en Buk**.
 
 #### Conoce un poco más 🚀
