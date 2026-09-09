@@ -20,7 +20,7 @@ A través de estos tres pilares puedes conocer un poco más sobre **cómo pensam
 
 🎯 [PILAR 1: POSICIONAMIENTO Y CULTURA](https://github.com/Javipizarrot/Posicionamiento_y_cultura.git)
 
-Descubre cómo nuestros ingenieros deciden, construyen y son dueños de su impacto apoyados por agentes de IA.
+➡️ Descubre cómo nuestros ingenieros deciden, construyen y son dueños de su impacto apoyados por agentes de IA.
 
 ⚙️ [PILAR 2: ARQUITECTURA, ESCALA Y PRÁCTICAS REALES](https://github.com/Javipizarrot/arquitectura_escala_practicas_reales.git)
 
@@ -29,7 +29,7 @@ Descubre cómo nuestros ingenieros deciden, construyen y son dueños de su impac
 
 🌐 [PILAR 3: CONVERSIÓN: COMUNIDAD, OPEN SOURCE Y NUESTRO PROCESO](https://github.com/Javipizarrot/arquitectura_escala_practicas_reales.git)
 
-Lee nuestro Tech Blog, conoce nuestras contribuciones Open Source y descubre con total transparencia nuestro proceso de selección tech en ✨5 pasos✨.
+➡️ Lee nuestro Tech Blog, conoce nuestras contribuciones Open Source y descubre con total transparencia nuestro proceso de selección tech en ✨5 pasos✨.
 
 ---
 
