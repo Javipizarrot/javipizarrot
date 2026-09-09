@@ -6,9 +6,9 @@
 
 💻 Desde el sourcing, exploro perfiles, stacks y equipos de Engineering para entender cada vez mejor cómo se construye tecnología.
 
-### Y si llegaste hasta mi perfil, aprovecho de mostrarte un poquito del lugar donde estoy viviendo ese mundo 🔭
+#### **Y si llegaste hasta mi perfil, aprovecho de mostrarte un poquito del lugar donde estoy viviendo ese mundo 🔭**
 
-En Buk buscamos crear **lugares de trabajo más felices**, y detrás de ese propósito hay equipos de Engineering construyendo, experimentando y resolviendo desafíos que impactan a miles de personas en Latinoamérica.
+En Buk buscamos crear **lugares de trabajo más felices**🫶  , y detrás de ese propósito hay equipos de Engineering construyendo, experimentando y resolviendo desafíos que impactan a miles de personas en Latinoamérica.
 
 <p align="center">
   <img src="giphy (1).webp" width="200">
