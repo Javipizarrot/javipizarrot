@@ -1,4 +1,4 @@
-## ¡Hola! Soy Javi 👋
+## ¡Hola! Soy Javi :)
 
 <img src="168c45a1-7b6f-4a8d-a523-b87cc8a0bed6.png" width="30"> **Tech Sourcer en Buk Chile**, descubriendo el talento detrás de la tecnología.
 
