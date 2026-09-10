@@ -1,6 +1,6 @@
 ## ¡Hola! Soy Javi 👋
 
-💙 **Tech Sourcer en Buk Chile**, descubriendo el talento detrás de la tecnología.
+<img src="168c45a1-7b6f-4a8d-a523-b87cc8a0bed6.png" width="30"> **Tech Sourcer en Buk Chile**, descubriendo el talento detrás de la tecnología.
 
 🔎 Me interesa conocer distintas trayectorias del mundo tech y conectar con personas que estén buscando su próximo desafío.
 
@@ -18,16 +18,16 @@ A través de estos tres pilares puedes conocer un poco más sobre **cómo pensam
 
 #### Conoce un poco más 🚀
 
-🎯 **[PILAR 1: POSICIONAMIENTO Y CULTURA](https://github.com/Javipizarrot/Posicionamiento_y_cultura.git)** 💙
+🎯 **[PILAR 1: POSICIONAMIENTO Y CULTURA](https://github.com/Javipizarrot/Posicionamiento_y_cultura.git)** <img src="168c45a1-7b6f-4a8d-a523-b87cc8a0bed6.png" width="30">
 
 ➡️ Descubre cómo nuestros ingenieros deciden, construyen y son dueños de su impacto apoyados por agentes de IA.
 
-⚙️ **[PILAR 2: ARQUITECTURA, ESCALA Y PRÁCTICAS REALES](https://github.com/Javipizarrot/arquitectura_escala_practicas_reales.git)** 💙
+⚙️ **[PILAR 2: ARQUITECTURA, ESCALA Y PRÁCTICAS REALES](https://github.com/Javipizarrot/arquitectura_escala_practicas_reales.git)** <img src="168c45a1-7b6f-4a8d-a523-b87cc8a0bed6.png" width="30">
 
 ➡️ ¿Por qué amamos "The Boring Technology"? mostramos nuestra infraestructura y explicamos nuestra cultura de error (Blameless post-mortems).
 
 
-🌐 **[PILAR 3: CONVERSIÓN: COMUNIDAD, OPEN SOURCE Y NUESTRO PROCESO](https://github.com/Javipizarrot/arquitectura_escala_practicas_reales.git)** 💙 
+🌐 **[PILAR 3: CONVERSIÓN: COMUNIDAD, OPEN SOURCE Y NUESTRO PROCESO](https://github.com/Javipizarrot/arquitectura_escala_practicas_reales.git)**  <img src="168c45a1-7b6f-4a8d-a523-b87cc8a0bed6.png" width="30">
 
 ➡️ Lee nuestro Tech Blog, conoce nuestras contribuciones Open Source y descubre con total transparencia nuestro proceso de selección tech en ✨5 pasos✨.
 
