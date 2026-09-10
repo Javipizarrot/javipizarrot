@@ -4,6 +4,8 @@
 
 <img src="3d060973-24b4-4ab7-a7ee-43c6a41512d5.png" width="30"> Me interesa conocer distintas trayectorias del mundo tech y conectar con personas que estén buscando su próximo desafío.
 
+Busco Ruby on Rails, PostgresSL, Typescript, AWS.
+
 <img src="bf704544-3c83-454c-a39d-b2d2f1daa123.png" width="30"> Desde el sourcing, exploro perfiles, stacks y equipos de Engineering para entender cada vez mejor cómo se construye tecnología.
 
 #### **Y si llegaste hasta mi perfil, aprovecho de mostrarte un poquito del lugar donde estoy viviendo ese mundo 🔭**
