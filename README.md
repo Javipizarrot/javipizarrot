@@ -22,7 +22,7 @@ A través de estos tres pilares puedes conocer un poco más sobre **cómo pensam
 
 ➡️ Descubre cómo nuestros ingenieros deciden, construyen y son dueños de su impacto apoyados por agentes de IA.
 
-⚙️ **[PILAR 2: ARQUITECTURA, ESCALA Y PRÁCTICAS REALES](https://github.com/Javipizarrot/arquitectura_escala_practicas_reales.git)** <img src="168c45a1-7b6f-4a8d-a523-b87cc8a0bed6.png" width="30">
+<img src="6433ae4a-22a7-4bf2-993d-816fdc8535f3.png" width="30"> **[PILAR 2: ARQUITECTURA, ESCALA Y PRÁCTICAS REALES](https://github.com/Javipizarrot/arquitectura_escala_practicas_reales.git)** <img src="168c45a1-7b6f-4a8d-a523-b87cc8a0bed6.png" width="30">
 
 ➡️ ¿Por qué amamos "The Boring Technology"? mostramos nuestra infraestructura y explicamos nuestra cultura de error (Blameless post-mortems).
 
