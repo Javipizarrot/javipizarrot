@@ -16,7 +16,7 @@ Frameworks: 🔴 Ruby on Rails · ⚙️ Symfony · 🛤️ Grails
 
 Bases de datos: 🐘 PostgreSQL
 
-Infraestructura / DevOps: 🟣 Terraform, ☸️ Kubernetes
+Infraestructura: 🟣 Terraform, ☸️ Kubernetes
 
 
 
