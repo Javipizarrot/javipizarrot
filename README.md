@@ -6,10 +6,18 @@
 
 <img src="bf704544-3c83-454c-a39d-b2d2f1daa123.png" width="30"> Desde el sourcing, exploro perfiles, stacks y equipos de Engineering para entender cada vez mejor cómo se construye tecnología
 
-<img src="168c45a1-7b6f-4a8d-a523-b87cc8a0bed6.png" width="30">  Busco **lenguajes de programación/frameworks**: 💎 Ruby, 🔴 Ruby on Rails,🟪 PHP,🎼Symfony, 
-🟢 JavaScript,⚪ Next.js, 🐍 Python.
+<img src="168c45a1-7b6f-4a8d-a523-b87cc8a0bed6.png" width="30">  Busco **lenguajes de programación/frameworks**:
 
-<img src="3d060973-24b4-4ab7-a7ee-43c6a41512d5.png" width="30"> Busco **Bases de datos / infraestructura**: 🐘 PostgreSQL, 🍃 MongoDB, 🟣 Terraform, ☸️ Kubernetes.
+Lenguajes: 💎 Ruby · 🟪 PHP · 🟢 JavaScript/TypeScript · 🐍 Python · 🎼 Groovy
+
+Frameworks: 🔴 Ruby on Rails · ⚙️ Symfony · 🛤️ Grails
+
+<img src="3d060973-24b4-4ab7-a7ee-43c6a41512d5.png" width="30"> Busco **Bases de datos / infraestructura**:
+
+Bases de datos: 🐘 PostgreSQL
+
+Infraestructura / DevOps: 🟣 Terraform, ☸️ Kubernetes
+
 
 
 #### **Y si llegaste hasta mi perfil, aprovecho de mostrarte un poquito del lugar donde estoy viviendo ese mundo 🔭**
